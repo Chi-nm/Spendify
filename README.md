@@ -1,0 +1,2 @@
+# Spendify
+Tracks expenses
